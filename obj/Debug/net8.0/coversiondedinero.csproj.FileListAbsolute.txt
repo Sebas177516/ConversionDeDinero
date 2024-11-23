@@ -1,0 +1,14 @@
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\bin\Debug\net8.0\coversiondedinero.exe
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\bin\Debug\net8.0\coversiondedinero.deps.json
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\bin\Debug\net8.0\coversiondedinero.runtimeconfig.json
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\bin\Debug\net8.0\coversiondedinero.dll
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\bin\Debug\net8.0\coversiondedinero.pdb
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\coversiondedinero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\coversiondedinero.AssemblyInfoInputs.cache
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\coversiondedinero.AssemblyInfo.cs
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\coversiondedinero.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\coversiondedinero.dll
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\refint\coversiondedinero.dll
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\coversiondedinero.pdb
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\coversiondedinero.genruntimeconfig.cache
+C:\Users\Sebastian Marin\Desktop\coversiondedinero\obj\Debug\net8.0\ref\coversiondedinero.dll
